@@ -1,7 +1,7 @@
 workspace "Open Telekom Cloud Example" "An example OTC deployment architecture." {
 
     model {
-        themeTest = softwaresystem "2 tier Layout" "Enables deployment of simple network layout to the Open Telekom Cloud with terraform/opentofu" {
+        themeTest = softwaresystem "2 tier Layout" "Displays simple network layout in the Open Telekom Cloud" {
 
         }
 
@@ -19,11 +19,16 @@ workspace "Open Telekom Cloud Example" "An example OTC deployment architecture."
                         publicSubnet = infrastructureNode "Subnet: public access" {
                             tags " Open Telekom Cloud - VPC subnet"
                         }
+
+                        privateSubnet = infrastructureNode "Subnet: private access" {
+                            tags " Open Telekom Cloud - VPC subnet"
+                        }
                     }
                 }
             }
 
-            publicSubnet -> publicSubnet "Forwards requests to" "HTTPS"
+            publicSubnet -> privateSubnet "Forwards requests to" "HTTPS only"
+            privateSubnet -> privateSubnet "Accesses other resource" "TLS"
         }
     }
 
