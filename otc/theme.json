@@ -293,7 +293,7 @@
     "tag" : "Open Telekom Cloud - Region",
     "stroke" : "#ea0a8e",
     "color" : "#ea0a8e",
-    "icon" : "extras/OTC-region_light-bg"
+    "icon" : "extras/OTC-region_light-bg.png"
   }, {
     "tag" : "Open Telekom Cloud - VPC subnet",
     "stroke" : "#ea0a8e",
