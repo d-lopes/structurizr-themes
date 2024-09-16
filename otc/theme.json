@@ -1,0 +1,303 @@
+{
+  "name" : "Open Telekom Cloud",
+  "description" : "This theme includes element styles with icons for each of the OTC services, based upon the Open Telekom Cloud Icons / Stencils (https://www.open-telekom-cloud.com/en/support/release-notes/open-telekom-cloud-otc-icons-stencils)",
+  "elements" : [  
+  
+	{ 
+		"tag" : "Open Telekom Cloud - ANTIDDOS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/ANTIDDOS (Anti DDoS).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - AOM", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/AOM (Application Operations Management).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - AS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/AS (Auto Scaling).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - BMS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/BMS (Bare Metal Server).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - CBR", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/CBR (Cloud Backup and Recovery).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - CCE", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/CCE (Cloud Container Engine).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - CES", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/CES (Cloud Eye).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - CSBS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/CSBS (Cloud Server Backup Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - CSS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/CSS (Cloud Search Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - CTS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/CTS (Cloud Trace Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - DC", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/DC (Direct Connect).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - DCS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/DCS (Distributed Cache Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - DDS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/DDS (Document Database Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - DEH", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/DEH (Dedicated Host).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - DIS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/DIS (Data Ingestion Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - DMS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/DMS (Distributed Message Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - DNS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/DNS (Domain Name Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - DRS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/DRS (Data Replication Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - DWS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/DWS (Data Warehouse Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - ECS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/ECS (Elastic Cloud Server).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - EIP", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/EIP (Elastic IP).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - ELB", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/ELB (Elastic Load Balancing).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - EVS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/EVS (Elastic Volume Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - IAM", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/IAM (Identity and Access Management).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - IMS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/IMS (Image Management Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - KMS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/KMS (Key Management Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - LTS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/LTS (Log Tank Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - MA", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/MA (ModelArts).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - MRS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/MRS (MapReduce Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - NATGW", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/NATGW (NAT Gateway).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - OBS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/OBS (Object Storage Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - PLAS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/PLAS (Private Link Access Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - RDS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/RDS (Relational Database Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - RMS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/RMS (Resource Management Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - RTS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/RTS (Resource Template Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - SDRS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/SDRS (Storage Disaster Recovery Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - SFS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/SFS (Scalable File System).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - SMG", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/SMG (Secure Mail Gateway).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - SMN", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/SMN (Simple Message Notification).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - SWR", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/SWR (Software Repository for Containers).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - TMS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/TMS (Tag Management Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - VBS", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/VBS (Volume Backup Service).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - VPC", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/VPC (Virtual Private Cloud).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - VPCEP", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/VPCEP (VPC Endpoint).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - VPN", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/VPN (Virtual Private Network).svg" 
+	},
+	{ 
+		"tag" : "Open Telekom Cloud - WAF", 
+		"stroke" : "#ea0a8e", 
+		"color" : "#ea0a8e", 
+		"icon" : "icons/WAF (Web Application Firewall).svg" 
+	},
+
+  {
+    "tag" : "Element",
+    "background" : "#ffffff",
+    "shape" : "RoundedBox"
+  }, {
+    "tag" : "Open Telekom Cloud - Cloud",
+    "stroke" : "#ea0a8e",
+    "color" : "#ea0a8e",
+    "icon" : "extras/OTC-cloud_light-bg.png"
+  }, {
+    "tag" : "Open Telekom Cloud - Region",
+    "stroke" : "#ea0a8e",
+    "color" : "#ea0a8e",
+    "icon" : "extras/OTC-region_light-bg"
+  }, {
+    "tag" : "Open Telekom Cloud - VPC subnet",
+    "stroke" : "#ea0a8e",
+    "color" : "#ea0a8e",
+    "border" : "Dashed"
+  } ]
+}

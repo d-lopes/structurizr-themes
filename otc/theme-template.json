@@ -1,0 +1,24 @@
+{
+  "name" : "Open Telekom Cloud",
+  "description" : "This theme includes element styles with icons for each of the OTC services, based upon the Open Telekom Cloud Icons / Stencils (https://www.open-telekom-cloud.com/en/support/release-notes/open-telekom-cloud-otc-icons-stencils)",
+  "elements" : [  
+  // INCLUDE_RENDERED_THEME_DATA_HERE
+
+    {
+      "tag" : "Open Telekom Cloud - Cloud",
+      "stroke" : "#ea0a8e",
+      "color" : "#ea0a8e",
+      "icon" : "extras/OTC-cloud_light-bg.png"
+    }, {
+      "tag" : "Open Telekom Cloud - Region",
+      "stroke" : "#ea0a8e",
+      "color" : "#ea0a8e",
+      "icon" : "extras/OTC-region_light-bg"
+    }, {
+      "tag" : "Open Telekom Cloud - VPC subnet",
+      "stroke" : "#ea0a8e",
+      "color" : "#ea0a8e",
+      "border" : "Dashed"
+    } 
+  ]
+}
